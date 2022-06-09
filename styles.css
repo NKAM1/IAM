@@ -1,0 +1,28 @@
+/*************************************TAG SELECTORS********************************************/
+
+
+body {
+    background-color: rgb(45, 58, 58);
+}
+
+hr{
+    background-color: white;
+    border-style: none;
+    height: 0;
+    border-color: rgb(88, 88, 88);
+}
+
+h1{
+    color: #f0f2f5;
+}
+
+h3{
+    color: #f0f2f5;
+}
+
+
+/*************************************CLASS SELECTORS****************************************/
+
+img{
+    border-radius: 7%;
+}
