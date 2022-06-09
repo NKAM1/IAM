@@ -1,7 +1,6 @@
 <html>
     <head> 
         <meta charset="utf-8">
-        <title>Kartik Jha</title>
         <link rel="stylesheet" href="C:\Users\Kartik\Pictures\Kartik\Web Development\css\Personal-site\styles.css">
     </head>
     <body>
@@ -32,6 +31,6 @@
               </tr>
           </table>
           <hr>
-          <a href="C:\Users\Kartik\Pictures\Kartik\Web Development\CSS-My Site\Personal-site">Contact me</a>
+          <a href="C:\Users\Kartik\Pictures\Kartik\Web Development\CSS-My Site\Personal-site\Contac-me.html">Contact me</a>
     </body>
 </html>
